@@ -1,0 +1,962 @@
+.wpcDoorsChild {
+  position: absolute;
+  top: 596px;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 1440px;
+  height: 852px;
+}
+.logo1Icon {
+  position: absolute;
+  top: 44px;
+  left: 150px;
+  width: 221px;
+  height: 60px;
+  object-fit: cover;
+}
+.wpcDoorsItem {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-darkolivegreen-100);
+  width: 1440px;
+  height: 34px;
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.doorFrames,
+.gallery,
+.home,
+.wpc {
+  position: absolute;
+  top: 64px;
+  left: 623px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  color: var(--color-darkolivegreen-100);
+  text-align: left;
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.gallery,
+.home,
+.wpc {
+  left: 530px;
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.gallery,
+.wpc {
+  left: 779px;
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.gallery {
+  left: 863px;
+  color: var(--color-olivedrab-100);
+}
+.blogs,
+.contactUs,
+.gallery {
+  left: 988px;
+  color: var(--color-darkolivegreen-100);
+}
+.blogs,
+.contactUs {
+  left: 1104px;
+}
+.blogs {
+  left: 1248px;
+}
+.wpcDoorsInner {
+  position: absolute;
+  top: 58px;
+  left: 852px;
+  background-color: var(--color-olivedrab-300);
+  border: 1px solid var(--color-olivedrab-100);
+  box-sizing: border-box;
+  width: 94px;
+  height: 33px;
+}
+.adminekotimberin,
+.orderForm {
+  position: absolute;
+  top: 7px;
+  left: 907px;
+  line-height: 21px;
+  font-weight: 500;
+  color: var(--color-white);
+  white-space: pre-wrap;
+  text-align: left;
+}
+.adminekotimberin {
+  top: 6px;
+  left: 161px;
+  font-size: var(--font-size-smi-8);
+}
+.frameDiv {
+  position: absolute;
+  top: 74px;
+  left: 568px;
+  width: 1px;
+  height: 2px;
+  overflow: hidden;
+}
+.maskGroupIcon {
+  position: absolute;
+  top: 113px;
+  left: 0;
+  width: 1440px;
+  height: 489px;
+}
+.feature {
+  margin: 0;
+}
+.acidProof,
+.attractiveFinish,
+.carpenterFriendly,
+.costEffective,
+.easyToClean,
+.easyToInstall,
+.ecoFriendly,
+.lightWeight,
+.strong,
+.termiteProof,
+.warpingProof {
+  margin: 0;
+  font-weight: 600;
+}
+.featureLightWeightContainer {
+  position: absolute;
+  top: 2629px;
+  left: calc(50% - 272.3px);
+  letter-spacing: 0.05em;
+  line-height: 36px;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 142.2px;
+  height: 427.5px;
+}
+.blankLine,
+.p,
+.p1,
+.p10,
+.p11,
+.p2,
+.p3,
+.p4,
+.p5,
+.p6,
+.p7,
+.p8,
+.p9,
+.wpc1 {
+  margin: 0;
+}
+.steel,
+.wood,
+.wpcContainer {
+  position: absolute;
+  top: 2629px;
+  left: calc(50% - 128.2px);
+  letter-spacing: 0.05em;
+  line-height: 36px;
+  display: inline-block;
+  color: var(--color-gray-100);
+  width: 142.2px;
+  height: 427.5px;
+}
+.steel,
+.wood {
+  left: calc(50% - 3.7px);
+}
+.wood {
+  top: 2629.2px;
+  left: calc(50% + 115px);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 2629px;
+  left: 439.8px;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-sienna-200);
+  box-sizing: border-box;
+  width: 525.6px;
+  height: 430.4px;
+}
+.vectorIcon {
+  position: absolute;
+  top: 2661.4px;
+  left: 440.8px;
+  max-height: 100%;
+  width: 524.6px;
+}
+.wpcDoorsChild1,
+.wpcDoorsChild2,
+.wpcDoorsChild3 {
+  position: absolute;
+  top: 2629px;
+  left: 601.6px;
+  width: 0;
+  height: 430.4px;
+  object-fit: contain;
+}
+.wpcDoorsChild2,
+.wpcDoorsChild3 {
+  left: 727.1px;
+}
+.wpcDoorsChild3 {
+  left: 849.7px;
+}
+.wpcDoorsChild4,
+.wpcDoorsChild5,
+.wpcDoorsChild6 {
+  position: absolute;
+  top: 2696.7px;
+  left: 440.8px;
+  max-height: 100%;
+  width: 524.6px;
+}
+.wpcDoorsChild5,
+.wpcDoorsChild6 {
+  top: 2732.9px;
+}
+.wpcDoorsChild6 {
+  top: 2768.2px;
+}
+.wpcDoorsChild10,
+.wpcDoorsChild7,
+.wpcDoorsChild8,
+.wpcDoorsChild9 {
+  position: absolute;
+  top: 2804.5px;
+  left: 440.8px;
+  max-height: 100%;
+  width: 524.6px;
+}
+.wpcDoorsChild10,
+.wpcDoorsChild8,
+.wpcDoorsChild9 {
+  top: 2839.8px;
+}
+.wpcDoorsChild10,
+.wpcDoorsChild9 {
+  top: 2875.1px;
+}
+.wpcDoorsChild10 {
+  top: 2911.4px;
+}
+.wpcDoorsChild11,
+.wpcDoorsChild12,
+.wpcDoorsChild13,
+.wpcDoorsChild14 {
+  position: absolute;
+  top: 2946.7px;
+  left: 440.8px;
+  max-height: 100%;
+  width: 524.6px;
+}
+.wpcDoorsChild12,
+.wpcDoorsChild13,
+.wpcDoorsChild14 {
+  top: 2983.9px;
+}
+.wpcDoorsChild13,
+.wpcDoorsChild14 {
+  top: 3021.2px;
+}
+.wpcDoorsChild14 {
+  top: 3059.4px;
+}
+.groupIcon,
+.layer1Icon {
+  position: absolute;
+  top: 2669.2px;
+  left: 653.6px;
+  width: 264.4px;
+  height: 381.4px;
+}
+.layer1Icon {
+  top: 3031px;
+  left: 777.1px;
+  width: 22.2px;
+  height: 19.6px;
+  overflow: hidden;
+}
+.wpcDoorsChild15,
+.wpcDoorsChild16 {
+  position: absolute;
+  top: 2668.5px;
+  left: 775.5px;
+  width: 20.3px;
+  height: 20.3px;
+}
+.wpcDoorsChild16 {
+  left: 896.8px;
+}
+.wpcDoorsChild17,
+.wpcDoorsChild18,
+.wpcDoorsChild19 {
+  position: absolute;
+  top: 2705.5px;
+  left: 775.5px;
+  width: 20.3px;
+  height: 20.3px;
+}
+.wpcDoorsChild18,
+.wpcDoorsChild19 {
+  top: 2740.8px;
+}
+.wpcDoorsChild19 {
+  top: 2846.7px;
+}
+.wpcDoorsChild20,
+.wpcDoorsChild21,
+.wpcDoorsChild22 {
+  position: absolute;
+  top: 2811.4px;
+  left: 895.8px;
+  width: 20.3px;
+  height: 20.3px;
+}
+.wpcDoorsChild21,
+.wpcDoorsChild22 {
+  top: 2848.6px;
+}
+.wpcDoorsChild22 {
+  top: 2954.5px;
+}
+.wpcDoorsChild23,
+.wpcDoorsChild24,
+.wpcDoorsChild25,
+.wpcDoorsChild26 {
+  position: absolute;
+  top: 2992.8px;
+  left: 895.8px;
+  width: 20.3px;
+  height: 20.3px;
+}
+.wpcDoorsChild24,
+.wpcDoorsChild25,
+.wpcDoorsChild26 {
+  top: 3030px;
+}
+.wpcDoorsChild25,
+.wpcDoorsChild26 {
+  top: 2883px;
+  left: 775.5px;
+}
+.wpcDoorsChild26 {
+  top: 2919.2px;
+}
+.maskGroupIcon1,
+.wpcDoorsChild27 {
+  position: absolute;
+  top: 1386px;
+  left: 130px;
+  width: 1161.7px;
+  height: 248.1px;
+}
+.wpcDoorsChild27 {
+  top: 688px;
+  left: 122px;
+  background-color: var(--color-white);
+  width: 1176px;
+  height: 760px;
+}
+.wpcDoorsChild28 {
+  position: absolute;
+  top: 2148px;
+  left: 1050px;
+  width: 67.1px;
+  height: 78.8px;
+}
+.layer1Icon1,
+.wpcDoorsChild29 {
+  position: absolute;
+  top: 2172px;
+  left: 656px;
+  width: 71.2px;
+  height: 71.2px;
+}
+.layer1Icon1 {
+  top: 2181px;
+  left: 293px;
+  width: 75px;
+  height: 61px;
+  overflow: hidden;
+}
+.maskGroupIcon2 {
+  position: absolute;
+  top: 942px;
+  left: 124px;
+  width: 491px;
+  height: 506px;
+  object-fit: cover;
+}
+.blankLine1,
+.ekotimberDoorsAre {
+  margin: 0;
+}
+.ekotimberDoorsAreContainer {
+  position: absolute;
+  top: 756px;
+  left: calc(50% - 442px);
+  letter-spacing: 0.05em;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  width: 885px;
+  height: 166px;
+}
+.anEcoFriendlyMaterial {
+  position: absolute;
+  top: 1080px;
+  left: 703px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-sienna-200);
+  text-align: left;
+}
+.wpcDoorsChild30 {
+  position: absolute;
+  top: 1112px;
+  left: 703px;
+  max-height: 100%;
+  width: 20px;
+}
+.blankLine2,
+.blankLine3,
+.sinceWpcDoes,
+.unlikeOtherWood {
+  margin: 0;
+}
+.salientFeaturesOf,
+.unlikeOtherWoodContainer {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.unlikeOtherWoodContainer {
+  top: 1159px;
+  left: 703px;
+  letter-spacing: 0.05em;
+  line-height: 24px;
+  text-align: left;
+  width: 443px;
+  height: 171px;
+}
+.salientFeaturesOf {
+  top: 1741px;
+  left: calc(50% - 311px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 18px;
+  color: var(--color-sienna-200);
+  width: 634px;
+  height: 17px;
+}
+.blankLine4,
+.easyInstallation {
+  margin: 0;
+}
+.easyInstallationContainer {
+  position: absolute;
+  top: 1982px;
+  left: calc(50% + 214px);
+  font-size: var(--font-size-mid);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  display: inline-block;
+  width: 297px;
+  height: 25px;
+}
+.blankLine5,
+.theFrameLooks {
+  margin: 0;
+}
+.theFrameLooksContainer,
+.theLightweightNature {
+  position: absolute;
+  top: 2295px;
+  left: calc(50% - 177px);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 300px;
+  height: 99px;
+}
+.theLightweightNature {
+  left: calc(50% - 533px);
+}
+.blankLine6,
+.blankLine7,
+.soundproofInsulating {
+  margin: 0;
+}
+.lightWeight1,
+.soundproofInsulatingContainer {
+  position: absolute;
+  top: 2257px;
+  left: calc(50% - 222px);
+  font-size: var(--font-size-mid);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  display: inline-block;
+  width: 391px;
+  height: 24px;
+}
+.lightWeight1 {
+  left: calc(50% - 492px);
+  width: 211px;
+}
+.acidIsUsed,
+.blankLine8 {
+  margin: 0;
+}
+.acidIsUsedContainer,
+.acidProof1 {
+  position: absolute;
+  left: calc(50% + 214px);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  display: inline-block;
+  width: 297px;
+}
+.acidIsUsedContainer {
+  top: 2294px;
+  font-weight: 600;
+  height: 59px;
+}
+.acidProof1 {
+  top: 2256px;
+  font-size: var(--font-size-mid);
+  height: 25px;
+}
+.blankLine9,
+.wpcDoorFrames {
+  margin: 0;
+}
+.wpcDoorFramesContainer {
+  position: absolute;
+  top: 2015px;
+  left: calc(50% + 214px);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 297px;
+  height: 59px;
+}
+.install3Icon {
+  position: absolute;
+  top: 1880px;
+  left: 1043px;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+}
+.blankLine10,
+.unlikeWoodIt {
+  margin: 0;
+}
+.unlikeWoodItContainer {
+  position: absolute;
+  top: 2016px;
+  left: calc(50% - 175px);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 297px;
+  height: 86px;
+}
+.blankLine11,
+.fireRetardant1 {
+  margin: 0;
+}
+.fireRetardant {
+  position: absolute;
+  top: 1978px;
+  left: calc(50% - 175px);
+  font-size: var(--font-size-mid);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  display: inline-block;
+  width: 297px;
+  height: 25px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-whitesmoke-100);
+  width: 1440px;
+  height: 430px;
+}
+.resistantToChemicals,
+.solidDoorThroughout,
+.suitableForLamination {
+  margin-bottom: 0;
+}
+.solidDoorThroughoutSuitable {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+}
+.solidDoorThroughoutContainer {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 470.5px);
+  letter-spacing: 0.05em;
+  line-height: 28px;
+  display: inline-block;
+  width: 254px;
+  height: 145px;
+}
+.highImpactResistance,
+.panelDimensionsCustomizable,
+.suitableForIndoor {
+  margin-bottom: 0;
+}
+.highImpactResistanceSuitabl {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+}
+.highImpactResistanceContainer {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 153.5px);
+  letter-spacing: 0.05em;
+  line-height: 28px;
+  display: inline-block;
+  width: 240px;
+  height: 145px;
+}
+.applicationsEntryDoors {
+  margin-bottom: 0;
+}
+.applicationsEntryDoorsSli {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-4xl);
+}
+.applicationsEntryDoorsContainer {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 149.5px);
+  letter-spacing: 0.05em;
+  line-height: 28px;
+  display: inline-block;
+  width: 321px;
+  height: 125px;
+}
+.solidDoorThroughoutSuitableParent {
+  position: absolute;
+  top: 201px;
+  left: calc(50% - 443px);
+  width: 941px;
+  height: 145px;
+}
+.features {
+  position: absolute;
+  top: 97px;
+  left: 677px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-sienna-200);
+}
+.groupItem {
+  position: absolute;
+  top: 143px;
+  left: 726px;
+  max-height: 100%;
+  width: 20px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 3150px;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 430px;
+  text-align: left;
+  font-size: var(--font-size-mid);
+}
+.fireRetardantMin2Icon {
+  position: absolute;
+  top: 1888px;
+  left: 658px;
+  width: 71px;
+  height: 70px;
+  object-fit: cover;
+}
+.itDoesNot,
+.waterproof {
+  position: absolute;
+  left: calc(50% - 535px);
+  letter-spacing: 0.05em;
+  line-height: 22px;
+  display: inline-block;
+  width: 297px;
+}
+.itDoesNot {
+  top: 2015px;
+  font-weight: 600;
+  height: 198px;
+}
+.waterproof {
+  top: 1977px;
+  font-size: var(--font-size-mid);
+  height: 25px;
+}
+.waterProof1Icon {
+  position: absolute;
+  top: 1888px;
+  left: 298px;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.wpcDoorsChild31 {
+  position: absolute;
+  top: 1796px;
+  left: 716px;
+  max-height: 100%;
+  width: 20px;
+}
+.advantagesOfWpc {
+  position: absolute;
+  top: 2536px;
+  left: calc(50% - 413px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: var(--color-sienna-200);
+  display: inline-block;
+  width: 803px;
+}
+.vectorIcon1,
+.wpcDoorsChild32 {
+  position: absolute;
+  top: 2583px;
+  left: 699px;
+  max-height: 100%;
+  width: 19px;
+}
+.vectorIcon1 {
+  height: 3.87%;
+  width: 1.39%;
+  top: 47.68%;
+  right: 87.64%;
+  bottom: 48.45%;
+  left: 10.97%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.finalFooter11Icon {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 388px;
+  object-fit: cover;
+}
+.groupInner {
+  position: absolute;
+  top: 340px;
+  left: 0;
+  background-color: var(--color-darkolivegreen-200);
+  width: 1440px;
+  height: 48px;
+}
+.ekotimberTechWood,
+.plasticCompositesLlp {
+  margin: 0;
+}
+.b16VeeraIndustrial,
+.hariOmChambers,
+.mailAdminekotimberin,
+.mumbai400053,
+.offNewLink,
+.phone9122 {
+  margin: 0;
+  font-weight: 300;
+}
+.copyrightEkotimberin,
+.ekotimberTechWoodContainer {
+  position: absolute;
+  top: 111px;
+  left: 554px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+  width: 281px;
+  height: 219px;
+}
+.copyrightEkotimberin {
+  top: 360px;
+  left: 523px;
+  font-size: var(--font-size-xs);
+  line-height: 16px;
+  text-align: center;
+  width: 383px;
+  height: 20px;
+}
+.certificates,
+.dealershipEnquiry,
+.downloads,
+.orderForm1,
+.quote,
+.whereToBuy {
+  margin: 0;
+}
+.connectWithUs,
+.getInTouch,
+.moreLinks,
+.orderFormQuoteContainer {
+  position: absolute;
+  top: 107px;
+  left: 915px;
+  letter-spacing: 0.05em;
+  line-height: 28px;
+  display: inline-block;
+  width: 150px;
+  height: 219px;
+}
+.connectWithUs,
+.getInTouch,
+.moreLinks {
+  top: 58px;
+  text-decoration: underline;
+  letter-spacing: 0.15em;
+  width: 145px;
+  height: 29px;
+}
+.connectWithUs,
+.getInTouch {
+  left: 550px;
+}
+.connectWithUs {
+  top: 135px;
+  left: 159px;
+  width: 163px;
+}
+.groupChild1,
+.isolationMode {
+  position: absolute;
+  top: 183px;
+  left: 200px;
+  width: 10px;
+  height: 19px;
+  overflow: hidden;
+}
+.groupChild1 {
+  height: 4.38%;
+  width: 0.56%;
+  top: 47.42%;
+  right: 85.9%;
+  bottom: 48.2%;
+  left: 13.54%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.isolationMode1,
+.vectorIcon2 {
+  position: absolute;
+  top: 185px;
+  left: 313px;
+  width: 9px;
+  height: 16px;
+  overflow: hidden;
+}
+.vectorIcon2 {
+  height: 4.12%;
+  width: 0.63%;
+  top: 47.68%;
+  right: 78.26%;
+  bottom: 48.2%;
+  left: 21.11%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.icon {
+  position: absolute;
+  top: 62px;
+  left: 163px;
+  width: 195px;
+  height: 53px;
+  object-fit: cover;
+}
+.groupChild2 {
+  position: absolute;
+  height: 4.38%;
+  width: 1.88%;
+  top: 47.42%;
+  right: 82.57%;
+  bottom: 48.2%;
+  left: 15.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild3 {
+  position: absolute;
+  top: 185px;
+  left: 263px;
+  width: 17px;
+  height: 17px;
+}
+.finalFooter11Parent {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 388px;
+}
+.groupDiv,
+.vectorParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupDiv {
+  height: 9.77%;
+  top: 90.13%;
+  right: 0.28%;
+  bottom: 0.1%;
+  left: -0.28%;
+  text-align: left;
+  color: var(--color-white);
+}
+.wpcDoors {
+  width: 1440px;
+  background-color: var(--color-white);
+  max-width: 100%;
+  height: 3002px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-raleway);
+}

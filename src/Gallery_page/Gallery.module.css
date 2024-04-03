@@ -1,0 +1,362 @@
+.galleryChild {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-darkolivegreen-100);
+  width: 1440px;
+  height: 34px;
+}
+.adminekotimberin,
+.orderForm {
+  position: absolute;
+  top: 7px;
+  left: 907px;
+  line-height: 21px;
+  font-weight: 500;
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.adminekotimberin {
+  top: 6px;
+  left: 161px;
+  font-size: var(--font-size-smi-8);
+}
+.galleryItem {
+  position: absolute;
+  top: 34px;
+  right: 0;
+  background-color: var(--color-whitesmoke-100);
+  width: 1440px;
+  height: 895px;
+}
+.logo1Icon {
+  position: absolute;
+  top: 44px;
+  left: 150px;
+  width: 221px;
+  height: 60px;
+  object-fit: cover;
+}
+.doorFrames,
+.home,
+.wpc {
+  position: absolute;
+  top: 64px;
+  left: 623px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+}
+.home,
+.wpc {
+  left: 530px;
+}
+.wpc {
+  left: 779px;
+}
+.aboutUs {
+  left: 863px;
+  color: var(--color-dimgray-200);
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.gallery1 {
+  position: absolute;
+  top: 64px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+}
+.gallery1 {
+  left: 988px;
+  color: var(--color-olivedrab-100);
+}
+.blogs,
+.contactUs {
+  left: 1104px;
+}
+.blogs {
+  left: 1248px;
+}
+.galleryInner {
+  position: absolute;
+  top: 58px;
+  left: 975px;
+  background-color: var(--color-olivedrab-300);
+  border: 1px solid var(--color-olivedrab-100);
+  box-sizing: border-box;
+  width: 94px;
+  height: 33px;
+}
+.frameDiv {
+  position: absolute;
+  top: 74px;
+  left: 568px;
+  width: 1px;
+  height: 2px;
+  overflow: hidden;
+}
+.gallery2 {
+  position: absolute;
+  top: 212px;
+  left: calc(50% - 52px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 18px;
+  font-weight: 600;
+  color: var(--color-sienna-200);
+}
+.vectorIcon {
+  position: absolute;
+  top: 244px;
+  left: calc(50% - 10px);
+  max-height: 100%;
+  width: 20px;
+}
+.maskGroupIcon,
+.maskGroupIcon1,
+.maskGroupIcon2,
+.maskGroupIcon3 {
+  position: absolute;
+  top: 311px;
+  left: 161px;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.maskGroupIcon1,
+.maskGroupIcon2,
+.maskGroupIcon3 {
+  left: 443px;
+  object-fit: contain;
+}
+.maskGroupIcon2,
+.maskGroupIcon3 {
+  left: 729px;
+  object-fit: cover;
+}
+.maskGroupIcon3 {
+  left: 1015px;
+}
+.maskGroupIcon4,
+.maskGroupIcon5,
+.maskGroupIcon6,
+.maskGroupIcon7 {
+  position: absolute;
+  top: 597px;
+  left: 161px;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.maskGroupIcon5,
+.maskGroupIcon6,
+.maskGroupIcon7 {
+  left: 443px;
+}
+.maskGroupIcon6,
+.maskGroupIcon7 {
+  left: 729px;
+  object-fit: contain;
+}
+.maskGroupIcon7 {
+  left: 1015px;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 3.87%;
+  width: 1.39%;
+  top: 47.68%;
+  right: 87.64%;
+  bottom: 48.45%;
+  left: 10.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.finalFooter11Icon {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 388px;
+  object-fit: cover;
+}
+.groupChild {
+  position: absolute;
+  top: 340px;
+  left: 0;
+  background-color: var(--color-darkolivegreen-200);
+  width: 1440px;
+  height: 48px;
+}
+.ekotimberTechWood,
+.plasticCompositesLlp {
+  margin: 0;
+}
+.b16VeeraIndustrial,
+.hariOmChambers,
+.mailAdminekotimberin,
+.mumbai400053,
+.offNewLink,
+.phone9122 {
+  margin: 0;
+  font-weight: 300;
+}
+.copyrightEkotimberin,
+.ekotimberTechWoodContainer {
+  position: absolute;
+  top: 111px;
+  left: 554px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+  width: 281px;
+  height: 219px;
+}
+.copyrightEkotimberin {
+  top: 360px;
+  left: 523px;
+  font-size: var(--font-size-xs);
+  line-height: 16px;
+  text-align: center;
+  width: 383px;
+  height: 20px;
+}
+.certificates,
+.dealershipEnquiry,
+.downloads,
+.orderForm1,
+.quote,
+.whereToBuy {
+  margin: 0;
+}
+.connectWithUs,
+.getInTouch,
+.moreLinks,
+.orderFormQuoteContainer {
+  position: absolute;
+  top: 107px;
+  left: 915px;
+  letter-spacing: 0.05em;
+  line-height: 28px;
+  display: inline-block;
+  width: 150px;
+  height: 219px;
+}
+.connectWithUs,
+.getInTouch,
+.moreLinks {
+  top: 58px;
+  text-decoration: underline;
+  letter-spacing: 0.15em;
+  width: 145px;
+  height: 29px;
+}
+.connectWithUs,
+.getInTouch {
+  left: 550px;
+}
+.connectWithUs {
+  top: 135px;
+  left: 159px;
+  width: 163px;
+}
+.groupItem,
+.isolationMode {
+  position: absolute;
+  top: 183px;
+  left: 200px;
+  width: 10px;
+  height: 19px;
+  overflow: hidden;
+}
+.groupItem {
+  height: 4.38%;
+  width: 0.56%;
+  top: 47.42%;
+  right: 85.9%;
+  bottom: 48.2%;
+  left: 13.54%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.isolationMode1,
+.vectorIcon2 {
+  position: absolute;
+  top: 185px;
+  left: 313px;
+  width: 9px;
+  height: 16px;
+  overflow: hidden;
+}
+.vectorIcon2 {
+  height: 4.12%;
+  width: 0.63%;
+  top: 47.68%;
+  right: 78.26%;
+  bottom: 48.2%;
+  left: 21.11%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.icon {
+  position: absolute;
+  top: 62px;
+  left: 163px;
+  width: 195px;
+  height: 53px;
+  object-fit: cover;
+}
+.groupInner {
+  position: absolute;
+  height: 4.38%;
+  width: 1.88%;
+  top: 47.42%;
+  right: 82.57%;
+  bottom: 48.2%;
+  left: 15.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon {
+  position: absolute;
+  top: 185px;
+  left: 263px;
+  width: 17px;
+  height: 17px;
+}
+.finalFooter11Parent {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 388px;
+}
+.groupDiv,
+.vectorParent {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.groupDiv {
+  height: 29.53%;
+  top: 70.7%;
+  bottom: -0.23%;
+  color: var(--color-white);
+}
+.gallery {
+  width: 1440px;
+  background-color: var(--color-white);
+  max-width: 100%;
+  height: 914px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkolivegreen-100);
+  font-family: var(--font-raleway);
+}

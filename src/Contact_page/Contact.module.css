@@ -1,0 +1,873 @@
+
+.logo1Icon {
+  position: absolute;
+  top: 44px;
+  left: 150px;
+  width: 221px;
+  height: 60px;
+  object-fit: cover;
+}
+.contactChild {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-darkolivegreen-100);
+  width: 1440px;
+  height: 34px;
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.doorFrames,
+.gallery,
+.home,
+.wpc {
+  position: absolute;
+  top: 64px;
+  left: 623px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  color: var(--color-darkolivegreen-100);
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.gallery,
+.home,
+.wpc {
+  left: 530px;
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.gallery,
+.wpc {
+  left: 779px;
+}
+.aboutUs,
+.blogs,
+.contactUs,
+.gallery {
+  left: 863px;
+  color: var(--color-olivedrab-100);
+}
+.blogs,
+.contactUs,
+.gallery {
+  left: 988px;
+  color: var(--color-darkolivegreen-100);
+}
+.blogs,
+.contactUs {
+  left: 1104px;
+}
+.blogs {
+  left: 1248px;
+}
+.contactItem {
+  position: absolute;
+  top: 58px;
+  left: 852px;
+  background-color: var(--color-olivedrab-300);
+  border: 1px solid var(--color-olivedrab-100);
+  box-sizing: border-box;
+  width: 94px;
+  height: 33px;
+}
+.adminekotimberin,
+.orderForm {
+  position: absolute;
+  top: 7px;
+  left: 907px;
+  line-height: 21px;
+  font-weight: 500;
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.adminekotimberin {
+  top: 6px;
+  left: 161px;
+  font-size: var(--font-size-smi-8);
+}
+.contactInner {
+  position: absolute;
+  top: 74px;
+  left: 568px;
+  width: 1px;
+  height: 2px;
+  overflow: hidden;
+}
+.missionBnr1Icon {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 1440px;
+  height: 438px;
+  object-fit: cover;
+}
+.contactUs1 {
+  position: absolute;
+  top: 309px;
+  left: 161px;
+  font-size: var(--font-size-21xl);
+  letter-spacing: -0.02em;
+  line-height: 29px;
+  font-family: var(--font-navine-demo);
+  color: var(--color-white);
+  display: inline-block;
+  width: 285px;
+  height: 29px;
+}
+.contactChild1,
+.rectangleDiv {
+  position: absolute;
+  top: 627px;
+  left: 151px;
+  background-color: var(--color-whitesmoke-100);
+  width: 750px;
+  height: 467px;
+}
+.contactChild1 {
+  top: 1147px;
+  left: -11px;
+  width: 1451px;
+  height: 387px;
+}
+.hariOmChambers {
+  font-weight: 600;
+  font-family: var(--font-raleway);
+}
+.hariOmChambers6thFloor6 {
+  margin: 0;
+}
+.mail {
+  font-family: var(--font-raleway);
+}
+.span {
+  font-weight: 600;
+}
+.adminekotimberin3 {
+  text-decoration: underline;
+}
+.adminekotimberin2 {
+  font-weight: 600;
+}
+.adminekotimberin1 {
+  color: inherit;
+}
+.mailAdminekotimberin {
+  margin: 0;
+}
+.phone,
+.span1 {
+  font-family: var(--font-raleway);
+}
+.span1 {
+  font-weight: 600;
+}
+.phone912242334444 {
+  margin: 0;
+}
+.blankLine1 {
+  font-weight: 600;
+  font-family: var(--font-raleway);
+}
+.blankLine {
+  margin: 0;
+}
+.hariOmChambersContainer {
+  position: absolute;
+  top: 785px;
+  left: 963px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+  width: 221px;
+  height: 219px;
+}
+.businessDevelopment,
+.contact1,
+.interestedIn,
+.others,
+.productInformation,
+.yourEmail,
+.yourName {
+  position: absolute;
+  top: 721px;
+  left: 192px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  width: 85px;
+  height: 24px;
+}
+.businessDevelopment,
+.contact1,
+.interestedIn,
+.others,
+.productInformation,
+.yourEmail {
+  left: 525px;
+}
+.businessDevelopment,
+.contact1,
+.interestedIn,
+.others,
+.productInformation {
+  top: 823px;
+  left: 192px;
+}
+.businessDevelopment,
+.interestedIn,
+.others,
+.productInformation {
+  top: 915px;
+  width: 113px;
+}
+.businessDevelopment,
+.others,
+.productInformation {
+  top: 947px;
+  left: 215px;
+  width: 156px;
+}
+.businessDevelopment,
+.others {
+  top: 975.1px;
+  width: 171px;
+  transform: rotate(-0.1deg);
+  transform-origin: 0 0;
+}
+.others {
+  left: 434px;
+}
+.dealershipEnquiry,
+.jobOpportunity {
+  top: 947px;
+  font-weight: 600;
+  width: 156px;
+  height: 24px;
+}
+.dealershipEnquiry {
+  position: absolute;
+  left: 407px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+}
+.jobOpportunity {
+  left: 589px;
+}
+.ekotimberTechWood,
+.iAm,
+.jobOpportunity {
+  position: absolute;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+}
+.iAm {
+  top: 823px;
+  left: 525px;
+  font-weight: 600;
+  width: 85px;
+  height: 24px;
+}
+.ekotimberTechWood {
+  top: 728px;
+  left: 963px;
+  font-size: var(--font-size-mid);
+  width: 221px;
+  height: 219px;
+}
+.getInTouch,
+.ourOffice {
+  position: absolute;
+  top: 670px;
+  left: 192px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 18px;
+  font-weight: 600;
+  color: var(--color-sienna-200);
+}
+.ourOffice {
+  left: 963px;
+}
+.contactChild2,
+.vectorIcon {
+  position: absolute;
+  top: 702px;
+  left: 192px;
+  max-height: 100%;
+  width: 20px;
+}
+.contactChild2 {
+  left: 963px;
+}
+.contactChild3 {
+  position: absolute;
+  top: 746px;
+  left: 192px;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 317px;
+  height: 49px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 950.5px;
+  left: 192.5px;
+  width: 390.5px;
+  height: 42.5px;
+}
+.contactChild4,
+.contactChild5,
+.contactChild6,
+.groupChild {
+  position: absolute;
+  top: 746px;
+  left: 525px;
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-darkolivegreen-100);
+  box-sizing: border-box;
+  width: 317px;
+  height: 49px;
+}
+.contactChild5,
+.contactChild6,
+.groupChild {
+  top: 847px;
+  left: 192px;
+}
+.contactChild6,
+.groupChild {
+  left: 525px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  background-color: var(--color-olivedrab-100);
+  border: 1px solid var(--color-saddlebrown-200);
+  width: 153.9px;
+  height: 42.3px;
+}
+.submit {
+  position: absolute;
+  top: 11px;
+  left: 29.9px;
+  letter-spacing: 0.16em;
+  line-height: 21px;
+  display: inline-block;
+  width: 102.2px;
+  height: 34.2px;
+}
+.groupDiv,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 153.9px;
+  height: 45.2px;
+}
+.groupDiv {
+  top: 1018px;
+  left: 192px;
+  text-align: center;
+  color: var(--color-white);
+}
+.select,
+.xxxxxxxxxx,
+.xyz,
+.xyzxyzcom {
+  position: absolute;
+  top: 759px;
+  left: 538px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  font-weight: 600;
+  color: var(--color-darkgray);
+  display: inline-block;
+  width: 91px;
+  height: 24px;
+}
+.select,
+.xxxxxxxxxx,
+.xyz {
+  left: 207px;
+}
+.select,
+.xxxxxxxxxx {
+  top: 861px;
+  left: 538px;
+}
+.xxxxxxxxxx {
+  left: 207px;
+}
+.contactChild7 {
+  position: absolute;
+  top: 861px;
+  left: 816px;
+  width: 12px;
+  height: 12px;
+  object-fit: contain;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 0.65%;
+  width: 1.39%;
+  top: 41.91%;
+  right: 31.74%;
+  bottom: 57.44%;
+  left: 66.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.isolationMode,
+.vectorIcon2 {
+  position: absolute;
+  top: 959px;
+  left: 1005px;
+  width: 10px;
+  height: 19px;
+  overflow: hidden;
+}
+.vectorIcon2 {
+  height: 0.74%;
+  width: 0.56%;
+  top: 41.87%;
+  right: 30%;
+  bottom: 57.39%;
+  left: 69.44%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupIcon {
+  position: absolute;
+  top: 960px;
+  left: 1029px;
+  width: 27px;
+  height: 17px;
+}
+.isolationMode1,
+.vectorIcon3 {
+  position: absolute;
+  top: 961px;
+  left: 1118px;
+  width: 9px;
+  height: 16px;
+  overflow: hidden;
+}
+.vectorIcon3 {
+  height: 0.7%;
+  width: 0.63%;
+  top: 41.91%;
+  right: 22.01%;
+  bottom: 57.39%;
+  left: 77.36%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.hyderabad {
+  margin: 0;
+  font-size: var(--font-size-lg);
+}
+.blankLine2 {
+  margin: 0;
+}
+.blankLine3,
+.jaiBhavaniDecors,
+.sreePraakaamyaSree {
+  margin: 0;
+  font-weight: 600;
+}
+.hyderabadJaiBhavaniContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+  width: 336px;
+  height: 147px;
+}
+.kolkata1 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-raleway);
+}
+.kolkata {
+  margin: 0;
+}
+.blankLine5 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-raleway);
+}
+.blankLine4 {
+  margin: 0;
+}
+.lokenathGlassIndustries1 {
+  font-weight: 600;
+}
+.lokenathGlassIndustries {
+  margin: 0;
+}
+.muraruPukurRoadKolkata71 {
+  font-weight: 600;
+}
+.muraruPukurRoadKolkata7 {
+  margin: 0;
+}
+.email {
+  font-weight: 600;
+}
+.lokenathglassindustriesgmail2 {
+  text-decoration: underline;
+}
+.lokenathglassindustriesgmail1 {
+  font-weight: 600;
+}
+.lokenathglassindustriesgmail {
+  color: inherit;
+}
+.emailLokenathglassindustries {
+  margin: 0;
+}
+.mobileNumber9804056006981 {
+  font-weight: 600;
+}
+.mobileNumber980405600698 {
+  margin: 0;
+}
+.blankLine7 {
+  font-weight: 600;
+}
+.blankLine6 {
+  margin: 0;
+}
+.blankLine9 {
+  font-weight: 600;
+}
+.blankLine8 {
+  margin: 0;
+}
+.kolkataLokenathGlassContainer {
+  position: absolute;
+  top: 0;
+  left: 425px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+  width: 314px;
+  height: 147px;
+}
+.bhutan1 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-raleway);
+}
+.bhutan {
+  margin: 0;
+}
+.blankLine10 {
+  font-size: var(--font-size-lg);
+  font-family: var(--font-raleway);
+}
+.ganeshEnterprises1 {
+  font-weight: 600;
+}
+.ganeshEnterprises {
+  margin: 0;
+}
+.dalsingpaarBazarPsJaigaon1 {
+  font-weight: 600;
+}
+.dalsingpaarBazarPsJaigaon {
+  margin: 0;
+}
+.westBengal735208India1 {
+  font-weight: 600;
+}
+.westBengal735208India {
+  margin: 0;
+}
+.email1 {
+  font-weight: 600;
+}
+.ganeshjaiswal726gmailcom2 {
+  text-decoration: underline;
+}
+.ganeshjaiswal726gmailcom1 {
+  font-weight: 600;
+}
+.ganeshjaiswal726gmailcom {
+  color: inherit;
+}
+.emailGaneshjaiswal726gmail {
+  margin: 0;
+}
+.phone774030521 {
+  font-weight: 600;
+}
+.phone77403052 {
+  margin: 0;
+}
+.mobile98008273801 {
+  font-weight: 600;
+}
+.mobile9800827380 {
+  margin: 0;
+}
+.blankLine12 {
+  font-weight: 600;
+}
+.blankLine11 {
+  margin: 0;
+}
+.blankLine14 {
+  font-weight: 600;
+}
+.blankLine13 {
+  margin: 0;
+}
+.blankLine16 {
+  font-weight: 600;
+}
+.blankLine15 {
+  margin: 0;
+}
+.bhutanGaneshEnterprisesContainer {
+  position: absolute;
+  top: 0;
+  left: 828px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+  width: 351px;
+  height: 167px;
+}
+.hyderabadJaiBhavaniDecorsParent {
+  position: absolute;
+  top: 1707px;
+  left: 131px;
+  width: 1179px;
+  height: 167px;
+}
+.ourDealers {
+  position: absolute;
+  top: 1612px;
+  left: calc(50% - 80px);
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.02em;
+  line-height: 18px;
+  font-weight: 600;
+  color: var(--color-sienna-200);
+}
+.contactChild8 {
+  position: absolute;
+  top: 1649px;
+  left: 740px;
+  max-height: 100%;
+  width: 20px;
+}
+.contactChild9,
+.vectorIcon4 {
+  position: absolute;
+  top: 959px;
+  left: 1073px;
+  width: 19px;
+  height: 19px;
+}
+.vectorIcon4 {
+  height: 3.87%;
+  width: 1.39%;
+  top: 47.68%;
+  right: 87.64%;
+  bottom: 48.45%;
+  left: 10.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.finalFooter11Icon {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 388px;
+  object-fit: cover;
+}
+.groupItem {
+  position: absolute;
+  top: 340px;
+  left: 0;
+  background-color: var(--color-darkolivegreen-200);
+  width: 1440px;
+  height: 48px;
+}
+.ekotimberTechWood1,
+.plasticCompositesLlp {
+  margin: 0;
+}
+.b16VeeraIndustrial,
+.hariOmChambers1,
+.mailAdminekotimberin1,
+.mumbai400053,
+.offNewLink,
+.phone9122 {
+  margin: 0;
+  font-weight: 300;
+}
+.copyrightEkotimberin,
+.ekotimberTechWoodContainer {
+  position: absolute;
+  top: 111px;
+  left: 554px;
+  letter-spacing: 0.05em;
+  line-height: 21px;
+  display: inline-block;
+  width: 281px;
+  height: 219px;
+}
+.copyrightEkotimberin {
+  top: 360px;
+  left: 523px;
+  font-size: var(--font-size-xs);
+  line-height: 16px;
+  text-align: center;
+  width: 383px;
+  height: 20px;
+}
+.certificates,
+.dealershipEnquiry1,
+.downloads,
+.orderForm1,
+.quote,
+.whereToBuy {
+  margin: 0;
+}
+.connectWithUs,
+.getInTouch1,
+.moreLinks,
+.orderFormQuoteContainer {
+  position: absolute;
+  top: 107px;
+  left: 915px;
+  letter-spacing: 0.05em;
+  line-height: 28px;
+  display: inline-block;
+  width: 150px;
+  height: 219px;
+}
+.connectWithUs,
+.getInTouch1,
+.moreLinks {
+  top: 58px;
+  text-decoration: underline;
+  letter-spacing: 0.15em;
+  width: 145px;
+  height: 29px;
+}
+.connectWithUs,
+.getInTouch1 {
+  left: 550px;
+}
+.connectWithUs {
+  top: 135px;
+  left: 159px;
+  width: 163px;
+}
+.groupInner,
+.isolationMode2 {
+  position: absolute;
+  top: 183px;
+  left: 200px;
+  width: 10px;
+  height: 19px;
+  overflow: hidden;
+}
+.groupInner {
+  height: 4.38%;
+  width: 0.56%;
+  top: 47.42%;
+  right: 85.9%;
+  bottom: 48.2%;
+  left: 13.54%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.isolationMode3,
+.vectorIcon5 {
+  position: absolute;
+  top: 185px;
+  left: 313px;
+  width: 9px;
+  height: 16px;
+  overflow: hidden;
+}
+.vectorIcon5 {
+  height: 4.12%;
+  width: 0.63%;
+  top: 47.68%;
+  right: 78.26%;
+  bottom: 48.2%;
+  left: 21.11%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.icon {
+  position: absolute;
+  top: 62px;
+  left: 163px;
+  width: 195px;
+  height: 53px;
+  object-fit: cover;
+}
+.groupChild1 {
+  position: absolute;
+  height: 4.38%;
+  width: 1.88%;
+  top: 47.42%;
+  right: 82.57%;
+  bottom: 48.2%;
+  left: 15.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild2 {
+  position: absolute;
+  top: 185px;
+  left: 263px;
+  width: 17px;
+  height: 17px;
+}
+.finalFooter11Parent {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 388px;
+}
+.vectorParent {
+  position: absolute;
+  height: 16.92%;
+  width: 100%;
+  top: 83.08%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: var(--color-white);
+}
+.contact {
+  width: 1440px;
+  background-color: var(--color-white);
+  max-width: 100%;
+  height: 1800px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-raleway);
+}

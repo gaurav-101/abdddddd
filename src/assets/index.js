@@ -1,0 +1,156 @@
+import ekotimber1 from "./1-1@2x.png"
+import ekotimber2 from "./logo-1@2x.png"
+import doorframe from "./01-1@2x.png"
+import doorframe2 from "./doorframe-1@2x.png"
+import rectangle from "./rectangle-3@2x.png"
+import doorframe3 from "./mask-group@2x.png"
+
+
+import footer from "./finalfooter1-1@2x.png"
+import facebook from "./group-37.svg"
+import insta from "./group-40.svg"
+import google from "./group-39.svg"
+import t from "./vector.svg"
+import twitter from "./vector-1.svg"
+
+
+import endorse from "./endorsement/mask-group-1@2x.png"
+import endorse1 from "./endorsement/ukkeemaya-1@2x.png"
+import endorse2 from "./endorsement/primaterra-2@2x.png"
+import endorse3 from "./endorsement/jhunjhunwala-1@2x.png"
+import endorse4 from "./endorsement/jhunjhunwala-2@2x.png"
+import endorse5 from "./endorsement/kabralogo-1@2x.png"
+
+//Doorframes_page
+
+import doorframe_first from "./Doorframes/mask-group2@2x.png"
+import doorframe_second from "./Doorframes/mask-group3@2x.png"
+import doorframe_third from "./Doorframes/mask-group1@2x.png"
+import doorframe_icon1 from "./Doorframes/acclimized-1@2x.png"
+import doorframe_icon2 from "./Doorframes/ecof-1@2x.png"
+import doorframe_icon3 from "./Doorframes/fireretardantmin-2@2x.png"
+import doorframe_icon4 from "./Doorframes/install-1@2x.png"
+import doorframe_icon5 from "./Doorframes/money-1@2x.png"
+import doorframe_icon6 from "./Doorframes/termitep-13@2x.png"
+import doorframe_icon7 from "./Doorframes/waterproof-1@2x.png"
+import doorframe_icon8 from "./Doorframes/group-64.svg"
+import doorframe_icon9 from "./Doorframes/group-65.svg"
+
+
+
+import wpc_first from "./Wpc/missionbnr-1@2x.png"
+import wpc_second from "./Wpc/535x200wpc-1@2x.png"
+import wpc_third from "./Wpc/535x175wpc2-1@2x.png"
+import wpc_fourth from "./Wpc/wpc1-1@2x.png"
+import wpc_fifth from "./Wpc/bgdl1-1@2x.png"
+import wpc_icon1 from "./Wpc/uvr-1@2x.png"
+import wpc_icon2 from "./Wpc/termitep-2@2x.png"
+import wpc_icon3 from "./Wpc/termitep-13@2x.png"
+import wpc_icon4 from "./Wpc/waterproof-2@2x.png"
+import wpc_icon5 from "./Wpc/highdensitymin-1@2x.png"
+import wpc_icon6 from "./Wpc/fireretardantmin-3@2x.png"
+import wpc_icon7 from "./Wpc/termitep-14@2x.png"
+import wpc_icon8 from "./Wpc/termitep-15@2x.png"
+import wpc_icon9 from "./Wpc/termitep-9@2x.png"
+import wpc_icon10 from "./Wpc/termitep-17@2x.png"
+import wpc_icon11 from "./Wpc/termitep-16@2x.png"
+import wpc_icon12 from "./Wpc/termitep-18@2x.png"
+import wpc_icon13 from "./Wpc/termitep-11@2x.png"
+import wpc_icon14 from "./Wpc/termitep-10@2x.png"
+import wpc_icon15 from "./Wpc/termitep-12@2x.png"
+import wpc_icon16 from "./Wpc/hdwpc-1@2x.png"
+
+
+import about_first from "./About/rectangle-24@2x.png"
+import about_vector5 from "./About/vector-5.svg"
+import about_vector9 from './About/vector-9.svg'  
+import about_vector10 from './About/vector-10.svg'
+
+
+import gallery_vector5 from "./Gallery/vector-5.svg"
+import gallery1 from "./Gallery/mask-group7@2x.png"
+import gallery2 from "./Gallery/mask-group8@2x.png"
+import gallery3 from "./Gallery/mask-group9@2x.png"
+import gallery4 from "./Gallery/mask-group10@2x.png"
+import gallery5 from "./Gallery/mask-group11@2x.png"
+import gallery6 from "./Gallery/mask-group12@2x.png"
+import gallery7 from "./Gallery/mask-group13@2x.png"
+import gallery8 from "./Gallery/mask-group14@2x.png"
+
+import companyProfile_first from "./CompanyProfile/companyprofilemin-1@2x.png"
+import companyProfile1 from "./CompanyProfile/vector-5.svg"
+import companyProfile2 from "./CompanyProfile/vector-9.svg"
+import companyProfile3 from "./CompanyProfile/vector-10.svg"
+import companyProfile4 from "./CompanyProfile/men-1@2x.png"
+
+
+import vision_first from "./MissionVision/missionbnr-11@2x.png"
+import vision1 from "./MissionVision/vector-5.svg"
+import vision2 from "./MissionVision/vector-9.svg"
+import vision3 from "./MissionVision/vector-10.svg"
+import vision4 from "./MissionVision/goal-1@2x.png"
+import vision5 from "./MissionVision/vision-1@2x.png"
+
+
+
+import door1 from "./WpcDoor/fireretardantmin-21@2x.png"
+import door2 from "./WpcDoor/group-37.svg"
+import door3 from "./WpcDoor/group-39.svg"
+import door4 from "./WpcDoor/group-40.svg"
+import door5 from "./WpcDoor/group-49.svg"
+import door6 from "./WpcDoor/group-50.svg"
+import door7 from "./WpcDoor/group-51.svg"
+import door8 from "./WpcDoor/group-52.svg"
+import door9 from "./WpcDoor/group-53.svg"
+
+import door10 from "./WpcDoor/group-54.svg"
+import door11 from "./WpcDoor/group-55.svg"
+
+import door12 from "./WpcDoor/group-56.svg"
+import door13 from "./WpcDoor/group-57.svg"
+import door14 from "./WpcDoor/group-58.svg"
+import door15 from "./WpcDoor/group-59.svg"
+import door16 from "./WpcDoor/group-60.svg"
+import door17 from "./WpcDoor/group-61.svg"
+import door18 from "./WpcDoor/group-641.svg"
+import door19 from "./WpcDoor/group-651.svg"
+import door20 from "./WpcDoor/install-3@2x.png"
+
+import door21 from "./WpcDoor/layer-11.svg"
+import door22 from "./WpcDoor/layer-12.svg"
+import door23 from "./WpcDoor/logo-1@2x.png"
+import door24 from "./WpcDoor/mask-group4.svg"
+import door25 from "./WpcDoor/mask-group5.svg"
+import door26 from "./WpcDoor/mask-group6@2x.png"
+import door27 from "./WpcDoor/vector-1.svg"
+import door28 from "./WpcDoor/vector-5.svg"
+import door29 from "./WpcDoor/vector-13.svg"
+import door30 from "./WpcDoor/vector-14.svg"
+import door31 from "./WpcDoor/vector-15.svg"
+import door32 from "./WpcDoor/vector-16.svg"
+import door35 from "./WpcDoor/vector-17.svg"
+import door36 from "./WpcDoor/vector-18.svg"
+import door37 from "./WpcDoor/vector-19.svg"
+import door38 from "./WpcDoor/vector-21.svg"
+import door39 from "./WpcDoor/vector-22.svg"
+import door40 from "./WpcDoor/vector-24.svg"
+import door41 from "./WpcDoor/vector-25.svg"
+import door42 from "./WpcDoor/vector-26.svg"
+import door43 from "./WpcDoor/vector-27.svg"
+import door44 from "./WpcDoor/vector-151.svg"
+import door45 from "./WpcDoor/vector.svg"
+
+import door46 from "./WpcDoor/waterproof-2@2x.png"
+
+
+import contact1 from "./Contact/missionbnr-1@2x.png"
+import contact2 from "./Contact/group-34.svg"
+import contact3 from "./Contact/group-42.svg"
+import contact4 from "./Contact/rectangle-44.svg"
+import contact5 from "./Contact/rectangle-45.svg"
+import contact6 from "./Contact/vector-1.svg"
+import contact7 from "./Contact/vector-2.svg"
+import contact8 from "./Contact/vector-5.svg"
+import contact9 from "./Contact/vector.svg"
+
+export { ekotimber1, ekotimber2, doorframe, doorframe2, rectangle, doorframe3, footer, facebook, insta, google, t, twitter, endorse, endorse1, endorse2, endorse3, endorse4, endorse5, doorframe_first, doorframe_second, doorframe_icon1, doorframe_icon2, doorframe_icon3, doorframe_icon4, doorframe_icon5, doorframe_icon6, doorframe_icon7, doorframe_third, doorframe_icon8, doorframe_icon9, wpc_first,wpc_fifth,wpc_fourth,wpc_icon1,wpc_icon10,wpc_icon11,wpc_icon12,wpc_icon13,wpc_icon14,wpc_icon15,wpc_icon16,wpc_icon2,wpc_icon3,wpc_icon4,wpc_icon5,wpc_icon6,wpc_icon7,wpc_icon8,wpc_icon9,wpc_second,wpc_third, about_first,about_vector5,about_vector9,about_vector10,gallery_vector5, gallery1, gallery2, gallery3, gallery4, gallery5, gallery6, gallery7, gallery8, companyProfile_first, companyProfile1,companyProfile2,companyProfile3,companyProfile4, vision_first, vision1,vision2,vision3,vision4,vision5, door1,door2,door3,door4,door5,door6,door7,door8,door9,door10,door11,door12,door13,door14,door15,door16,door17,door18,door19,door20,door21,door22,door23,door24,door25,door26,door27,door28,door29,door30,door31,door32,door35,door36,door37,door38,door39,door40,door41,door42,door43,door44,door45, door46, contact1,contact2,contact3,contact4,contact5,contact6,contact7,contact8,contact9}
